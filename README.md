@@ -47,6 +47,6 @@ $$S_t = S_0 \exp\left(\left(\mu - \frac{\sigma^2}{2}\right)t + \sigma W_t\right)
 
 ## 📈 Visual Results / Resultados Visuales
 
-![Dashboard](./TSLA_Executive_Dashboard.png)
+![Dashboard](./TSLA_EDA_Dashboard.png.png)
 
-![Monte Carlo Animation](./TSLA_MonteCarlo_WowFactor.gif)
+![Monte Carlo](./gif_monte_carlo.gif)
