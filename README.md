@@ -45,6 +45,18 @@ $$S_t = S_0 \exp\left(\left(\mu - \frac{\sigma^2}{2}\right)t + \sigma W_t\right)
 
 ---
 
+## Technologies & Tools
+
+- **Python** – Core programming language for quantitative analysis  
+- **Pandas** – Data manipulation and financial time series handling  
+- **NumPy** – Numerical computing and vectorized Monte Carlo simulations  
+- **SciPy** – Statistical distributions and risk metrics  
+- **Matplotlib** – Professional financial visualizations and dashboards  
+- **Seaborn** – Exploratory statistical plots  
+- **Celluloid** – Monte Carlo path animations (GIF rendering)  
+- **Pillow** – Image and animation export  
+- **IPython / Jupyter (Google Colab)** – Interactive analysis environment
+
 ## 📈 Visual Results / Resultados Visuales
 
 ![Dashboard](./TSLA_EDA_Dashboard.png.png)
